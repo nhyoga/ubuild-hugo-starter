@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 layout = "blocks"
 title = "About"
 [[page_sections]]
@@ -12,5 +11,10 @@ template = "content-feature"
 [page_sections.media]
 alt_text = ""
 image = ""
+[[page_sections]]
+block = "header-1"
+logo = ""
+navigation = []
+template = "navigation-header"
 
 +++
