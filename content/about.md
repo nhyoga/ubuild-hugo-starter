@@ -5,8 +5,8 @@ layout = "blocks"
 title = "About"
 [[page_sections]]
 block = "feature-1"
-content = ""
-headline = ""
+content = "hello"
+headline = "About nicola"
 media_alignment = "Right"
 template = "content-feature"
 [page_sections.media]
